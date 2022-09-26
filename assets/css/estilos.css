@@ -1,0 +1,227 @@
+.fondo2{
+    background-color:rgba(0,0,0,0.8);
+    font-weight:bold;
+
+}
+#fondo2{
+   background-image: url("../img/fondo17.jpg");
+}
+#principal{
+    background-image: url("../img/madera2.jpg");
+}
+.Bienvenida{
+  width: 70%;
+  height: 30%;
+}
+.Btext {
+  color: #FFF;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 300;
+  font: italic bold 50px Georgia, Serif;
+  text-shadow: -4px 3px 0 #cccc, -10px 5px 0 #0a0e27;
+}
+#cabecera{
+
+		background-image: url("../img/cabecera5.jpg");
+	 
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#cuerpoQuienes{
+	background-image: url("../img/madera1.jpg");
+	 
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#cuerpoComer{
+	background-image: url("../img/madera4.jpg");
+	 
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#pie{
+		background-image: url("../img/madera2.jpg");
+	 
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#menu{
+	background-image: url("../img/fondo2.jpg");
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h3{
+	
+	color: white;
+	font-size: 200%;
+
+}
+#formaenvio{
+	margin: 5%;
+}
+#formapago{
+	margin: 5%;
+}
+#cuerpoTot{
+	background-image: url("../img/madera5.jpg");
+ 	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ #cuerpoCont{
+ 	background-image: url("../img/fondo13.jpg");
+ 	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+#googleMaps{
+	margin: 10%;
+
+}
+#cuerpoCont2{
+	background-image: url("../img/imagen22.jpg");
+ 	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fondoConsultas{
+    background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fondoProductos{
+    background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#fondoProductosEliminados{
+    background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#fondoModificaProducto{
+    background-image: url("../img/footer1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+#fondoAgregarProducto{
+    background-image: url("../img/footer1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fondoMuestraUsuarios{
+    background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fondoMuestraUsuariosEliminados{
+    background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#fondoMuestraDEtalles{
+ background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+#fondoMuestraVentas{
+    background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fondoMuestraConsultasEliminadas{
+    background-image: url("../img/fondo13.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#iniciarSesion{
+    background-image: url("../img/fondo17.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#muestraModificarMicuenta{
+    background-image: url("../img/fondo16.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fondoMuestraCuenta{
+    background-image: url("../img/fondo16.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fondocarritoPate{
+    background-image: url("../img/fondo20.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#muestraCompraFinalizada{
+     background-image: url("../img/fondo20.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#desplegable{
+    background-color: black;
+    
+}
+    
+   
+#desplegableA{
+     color: #00B8C8;
+}
+#botonComprar{
+    background: black;
+    color: red;
+}

@@ -1,0 +1,7 @@
+Cliente
+usuario:Luna
+contraseña:12345
+
+Administrador
+usuario:Luis
+contraseña:12345
